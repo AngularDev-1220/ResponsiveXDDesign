@@ -13,7 +13,7 @@
     align-items: center;
     padding: 0.5rem 3rem;
     transition: transform 1s ease-in-out;
-    z-index: 9999999999999;
+    z-index: 9999999999;
 }
 
 .error-wrapper-active {
